@@ -1,15 +1,17 @@
 # Colorized Grep
 > Minor tool to colorize terminal output
 
-## How
+## Simple color grep
 
 ![demo](demo.gif)
 
-```
-~/path/to/project$ ruby ./cgrep.rb -p beatifull:pink this is the start of a beautiful friendship
-this is the start of a beautiful friendship <-- believe me this will be in pink
-```
 * -p or --pattern, using the format **pattern:color** to colorize the string match
+
+## Piped input
+
+![demo-stdinput](demo-stdinput.gif)
+
+* -i or --input, get input from standard input (piped)
 
 ## Roadmap
 
