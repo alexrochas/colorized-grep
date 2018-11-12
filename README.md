@@ -3,6 +3,8 @@
 
 ## How
 
+![demo](demo.gif)
+
 ```
 ~/path/to/project$ ruby ./cgrep.rb -p beatifull:pink this is the start of a beautiful friendship
 this is the start of a beautiful friendship <-- believe me this will be in pink
