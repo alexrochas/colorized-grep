@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'rainbow', '3.0.0'
+gem 'rainbow', '~> 3.0'
