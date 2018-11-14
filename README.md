@@ -3,6 +3,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/cgrep.svg)](https://badge.fury.io/rb/cgrep)
 ![Downloads](http://ruby-gem-downloads-badge.herokuapp.com/cgrep)
+[![Build Status](https://travis-ci.org/alexrochas/colorized-grep.svg?branch=master)](https://travis-ci.org/alexrochas/colorized-grep)
 
 ## Simple color grep
 
